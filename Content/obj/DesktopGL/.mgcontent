@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/ec1852116/source/repos/ASTEROIDS 2/ASTEROIDS 2/Content/explosion.wav</File>
+    <File>C:/Users/ec1852116/source/repos/ASTEROIDS 2/ASTEROIDS 2/Content/hudFont.spritefont</File>
+    <File>C:/Users/ec1852116/source/repos/ASTEROIDS 2/ASTEROIDS 2/Content/invi.wav</File>
+    <File>C:/Users/ec1852116/source/repos/ASTEROIDS 2/ASTEROIDS 2/Content/laser.wav</File>
+    <File>C:/Users/ec1852116/source/repos/ASTEROIDS 2/ASTEROIDS 2/Content/MainFont.spritefont</File>
+    <File>C:/Users/ec1852116/source/repos/ASTEROIDS 2/ASTEROIDS 2/Content/SpriteParticle.png</File>
+    <File>C:/Users/ec1852116/source/repos/ASTEROIDS 2/ASTEROIDS 2/Content/SpriteRocks.png</File>
+    <File>C:/Users/ec1852116/source/repos/ASTEROIDS 2/ASTEROIDS 2/Content/SpriteShip.png</File>
+    <File>C:/Users/ec1852116/source/repos/ASTEROIDS 2/ASTEROIDS 2/Content/start.wav</File>
+    <File>C:/Users/ec1852116/source/repos/ASTEROIDS 2/ASTEROIDS 2/Content/TFont.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
